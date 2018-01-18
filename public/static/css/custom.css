@@ -1,0 +1,23 @@
+#sam {
+    position: absolute;
+    bottom: 10vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    font-family: 'Amatic SC', cursive;
+    color: #b0bec5;
+    font-size: 54px;
+    font-weight: normal;
+}
+
+#insert {
+    position: absolute;
+    top: 30vh;
+    left: 50vw;
+    transform: translate(-50%, -50%);
+    font-family: 'Roboto Mono', monospace;
+    color: #b0bec5;
+}
+
+body {
+    background-color: #eceff1;
+}
